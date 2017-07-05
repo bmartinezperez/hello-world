@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository
+This is a new sentence to submit changes
